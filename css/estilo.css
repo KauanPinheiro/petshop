@@ -1,0 +1,70 @@
+
+body{
+    background-color: #D2B48C;
+}
+/*menu*/
+nav{
+    background-color: #BBBBBB;
+}
+ul{
+    list-style-type:none ;
+    margin: 0 ;
+    padding:0 ;
+    text-align: center;
+    display: block;
+}
+li{
+    display: inline;
+    
+}
+ul li a{
+    padding-left: 115px;
+    padding-right: 115px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+#login{
+    position: relative;
+    left: 1190px;
+    bottom: 85px;
+}
+#favoritos{
+    position: relative;
+    left: 77rem;
+    bottom: 85px;
+}
+#car{
+    position: relative;
+    left: 79rem;
+    bottom: 85px;
+}
+#logo{
+    position: relative;
+    left: 5rem;
+    top: 32px;
+}
+/*final do menu*/
+
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#carouselpet{
+    width: 50%;
+    position: relative;
+    left: 23rem;
+    top: 35px;
+
+}
+
+
