@@ -22,22 +22,18 @@ ul li a{
     font-size: 20px;
 }
 #login2{
-    position: relative;
     left: 1190px;
     bottom: 85px;
 }
 #favoritos2{
-    position: relative;
     left: 77rem;
     bottom: 85px;
 }
 #car2{
-    position: relative;
     left: 79rem;
     bottom: 85px;
 }
 #logo2{
-    position: relative;
     left: 5rem;
     top: 32px;
 }
@@ -50,7 +46,7 @@ ul li a{
 #banho{
     width: 49%;
     position: relative;
-    left: 28rem;
+    left: 30rem;
     top: 30px;  
 }
 #ts{
@@ -62,7 +58,7 @@ ul li a{
 #tosa{
     width: 50%;
     position: relative;
-    left: 28rem;
+    left: 30rem;
     top: 40px;
 }
 #vt{
@@ -74,7 +70,7 @@ ul li a{
 #Veterinario{
     width: 50%;
     position: relative;
-    left: 28rem;
+    left: 30rem;
     top: 50px;
 }
 #ser{
@@ -93,8 +89,9 @@ table{
     border-color: black;
 }
 th,td{  
+    background-color: #BBBBBB;
     border: 1px solid;
-    border-radius: 15px;
+    border-radius: 5px;
     font-size: 30px;
     
 }

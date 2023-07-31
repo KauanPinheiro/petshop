@@ -25,22 +25,20 @@ ul li a{
 
 }
 #login{
-    position: relative;
+
     left: 1190px;
     bottom: 85px;
 }
 #favoritos{
-    position: relative;
+
     left: 77rem;
     bottom: 85px;
 }
 #car{
-    position: relative;
     left: 79rem;
     bottom: 85px;
 }
 #logo{
-    position: relative;
     left: 5rem;
     top: 32px;
 }
@@ -50,20 +48,20 @@ ul li a{
 h1{
     text-align: center;
     position: relative;
-    top: 10px;
+    top: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 h2{
     text-align: center;
     position: relative;
-    top: 20px;
+    top: 30px;
     font-family: 'Times New Roman', Times, serif;
 }
 #carouselpet{
     width: 50%;
     position: relative;
     left: 23rem;
-    top: 35px;
+    top: 60px;
 
 }
 
